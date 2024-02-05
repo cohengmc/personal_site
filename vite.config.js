@@ -7,7 +7,9 @@ export default defineConfig({
 		rollupOptions: {
 		  input: {
 			main: resolve(__dirname, 'index.html'),
-			food_pages: resolve(__dirname, 'food_pages/pbnj.html'),
+			pbnj: resolve(__dirname, 'food_pages/pbnj.html'),
+			shwarma: resolve(__dirname, 'food_pages/shwarma.html'),
+			tacos: resolve(__dirname, 'food_pages/tacos.html'),
 		  },
 		},
 	  },
