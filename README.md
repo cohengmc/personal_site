@@ -1,5 +1,7 @@
 # co97145c3b72498b707ee6dac
 
+This project was based on Scrimba that I made on 5 Feb 2024
+
 Quick start:
 
 ```
